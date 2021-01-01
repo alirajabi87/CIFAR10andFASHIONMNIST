@@ -1,3 +1,6 @@
+"""
+This file is part of my training, feel free to download it and use it
+"""
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
